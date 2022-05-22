@@ -13,6 +13,10 @@ The application allows user to broswer all history expenses. It also provides mo
 
 Users can also selected a specific month to view their history monthly activities.
 
+<img width="1440" alt="Screen Shot 2022-05-21 at 11 26 45 PM" src="https://user-images.githubusercontent.com/82247271/169677022-ad95aef9-f722-40b2-8289-61aef6c58486.png">
+
+<img width="1439" alt="Screen Shot 2022-05-21 at 11 26 03 PM" src="https://user-images.githubusercontent.com/82247271/169677012-3c10481c-de36-4524-a39e-f47d4e2682f0.png">
+
 ## Technology Used:
 * JavaScript 
 * Node JS
